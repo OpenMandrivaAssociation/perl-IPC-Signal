@@ -3,7 +3,7 @@
 Summary:	IPC::Signal - Utility functions dealing with signals
 Name:		perl-%{module}
 Version:	1.00
-Release:	12
+Release:	13
 License:	GPLv2 or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/~rosch/IPC-Signal/
