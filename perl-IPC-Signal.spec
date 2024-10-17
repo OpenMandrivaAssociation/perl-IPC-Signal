@@ -6,7 +6,7 @@ Version:	1.00
 Release:	18
 License:	GPLv2 or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/~rosch/IPC-Signal/
+Url:		https://search.cpan.org/~rosch/IPC-Signal/
 Source0:	http://search.cpan.org/CPAN/authors/id/R/RO/ROSCH/%{module}-%{version}.tar.bz2
 BuildArch:	noarch
 BuildRequires:	perl-devel
