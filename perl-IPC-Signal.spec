@@ -9,6 +9,7 @@ Group:		Development/Perl
 Url:		https://search.cpan.org/~rosch/IPC-Signal/
 Source0:	http://search.cpan.org/CPAN/authors/id/R/RO/ROSCH/%{module}-%{version}.tar.bz2
 BuildArch:	noarch
+BuildRequires:	make
 BuildRequires:	perl-devel
 
 %description
